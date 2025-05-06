@@ -1,0 +1,2 @@
+# sistema-agendamento-servicos
+ Este projeto é um sistema simples e prático para o gerenciamento de agendamentos de serviços. Ele permite o cadastro de clientes, funcionários, serviços e a realização de agendamentos. Utiliza um banco de dados SQLite para armazenar informações de clientes e funcionários, além de um arquivo Excel para registrar os agendamentos realizados. Ideal para pequenas empresas que precisam organizar e otimizar o atendimento aos seus clientes.
